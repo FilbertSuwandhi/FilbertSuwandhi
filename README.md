@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Filbert Suwandhi's Code Diary <img width="45" src="https://github.com/FilbertSuwandhi/FilbertSuwandhi">
+# Filbert Suwandhi's Code Diary
 
 feel free to explore it
 
