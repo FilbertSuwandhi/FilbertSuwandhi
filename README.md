@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Filbert Suwandhi's Code Diary <img width="45" src="https://github.com/FilbertSuwandhi/FilbertSuwandhi">
+
+feel free to explore it
+
+### My Skills
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-347AB4?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+
+### Gihub Stats
+<p><img src="https://github-readme-stats.vercel.app/api?username=FilbertSuwandhi&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
+
+### Top Languages
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesslyn1999&amp;layout=compact" alt="Top Languages"></p>
+
+---
+
+Reach me at: https://www.linkedin.com/in/filbert-suwandhi-bb3526168/
+
